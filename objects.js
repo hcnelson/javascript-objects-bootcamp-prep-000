@@ -1,1 +1,3 @@
-var playlist = {Childish Gambino: "Sweatpants", BROCKHAMPTON: "San Marcos", Taylor Swift: "Cardigan"}
+var playlist = {
+  "Justin Bieber": "Peaches"
+}
